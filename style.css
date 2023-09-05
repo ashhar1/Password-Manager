@@ -90,3 +90,13 @@ img {
 #alert {
     display: none;
 }
+
+.end {
+    height: auto;
+    font-size: 9px;
+    background-color: black;
+    color: white;
+    padding: 0 13px;
+    display: flex;
+    justify-content: space-between;
+}
